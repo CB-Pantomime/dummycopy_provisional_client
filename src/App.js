@@ -11,11 +11,12 @@ function App() {
         alt='man relaxing in kitchen'
         ></img>
         </a>
-    <h2 className='home-title'>we done bonked yr mom and made a podcast not about that.</h2>
-    <p>-Kerry & Claire</p>
+    {/* <h2 className='home-title'>we done bonked yr mom and made a podcast not about that.</h2> */}
     <h2 className='home-blurb'>
       <strong>books.</strong>
       </h2>
+    <p>-Kerry & Claire</p>
+    
       <h3 className='home-blurb-comingsoon'>coming soon this very spring.</h3>
    </div>
   );
